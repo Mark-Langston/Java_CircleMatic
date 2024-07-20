@@ -11,16 +11,22 @@ Java CircleMatic is a simple Java application that allows users to draw circles 
 ## Screenshots
 
 1. **Initial Window**: The main window with the drawing panel.
+   
    ![Initial Window](screenshots/initial_window.png)
 
 2. **Prompt for Radius**: The input dialog to enter the radius.
+   
    ![Prompt for Radius](screenshots/prompt_for_radius.png)
 
 3. **First Circle**: The canvas after drawing the first circle.
+   
    ![First Circle](screenshots/first_circle.png)
 
 4. **Multiple Circles**: The canvas with multiple circles drawn.
+   
    ![Multiple Circles](screenshots/multiple_circles.png)
+
+Note: Ensure all screenshots are 800x600 pixels for consistency.
 
 ## How to Run
 
