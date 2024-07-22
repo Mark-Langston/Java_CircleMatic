@@ -34,8 +34,8 @@ Note: Ensure all screenshots are 800x600 pixels for consistency.
 2. Download or clone this repository.
 
     ```sh
-    git clone https://github.com/yourusername/JavaCircleMatic.git
-    cd JavaCircleMatic
+    git clone https://github.com/Mark-Langston/Java_CircleMatic.git
+    cd Java_CircleMatic
     ```
 
 3. Compile the Java program.
